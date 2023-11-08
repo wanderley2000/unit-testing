@@ -1,2 +1,1 @@
-console.log("Hello");
-console.log("Hellow");
+console.log("Unit testing");
